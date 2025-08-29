@@ -1,6 +1,7 @@
 # 🛒 **Online Shoppers Purchasing Intention** 🛒
 ---
 ## 📂 **Stage 0 : Problem Statement**
+
 ### Problem Statement
 - Majestic merupakan suatu perusahaan E-commerce (marketplace) yang menyediakan berbagai macam kebutuhan untuk pelanggan. 
 - Pada satu tahun terakhir, perusahaan hanya menghasilkan **Conversion Rate** sebesar **15%** dari pelanggan yang mengunjungi website.
